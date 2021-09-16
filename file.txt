@@ -1,1 +1,3 @@
 this is github, very interresting topic in entire devops.
+
+adding few paramer for understanding git merge command, pull request.
